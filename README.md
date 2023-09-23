@@ -1,4 +1,4 @@
-Developer. Innovator. ML Enthusiast
+Engineer. Innovator. ML Enthusiast
 ------------------------------------
 
 Chase is a backend developer focused on ML and object detection and how it can enhance human experiences.

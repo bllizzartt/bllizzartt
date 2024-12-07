@@ -3,11 +3,11 @@ Engineer. Innovator. ML Enthusiast
 
 Chase is a backend developer focused on ML and object detection and how it can enhance human experiences.
 
-* 🌍  I'm based in New York City, NY
+* 🌍  I'm based in DFW, TX
 * 🖥️  See my portfolio at [My Portfolio](http://www.chasehaynes.dev/)
 * ✉️  You can contact me at [chasecthaynes@gmail.com](mailto:chasecthaynes@gmail.com)
 * 🚀  I'm currently working on [Programmable Drones](http://www.youtube.com/watch?v=LmEcyQnfpDA&t=12740s)
-* 🧠  I'm learning everything Python
+* 🧠  I'm learning everything Frontend and Backend Dev
 * ⚡  I have a sphynx cat named Taro
 
 ### Skills
